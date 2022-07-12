@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmarra23
+- 👋 Hi, I’m Michael Marra
 - 👀 I’m interested in learning further how to analyze data via Python
 - 🌱 I’m currently learning how to code in Python for statistical analyses
 <!--- - 💞️ I’m looking to collaborate on ...
