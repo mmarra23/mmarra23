@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Marra
 - 👀 I’m interested in Predictive Analytics & Machine Learning
-- 🌱 I’m currently developing predictive analytics with sports data
+- 🌱 I’m currently developing Machine Learning models with sports data
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
